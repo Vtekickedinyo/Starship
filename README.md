@@ -1,7 +1,7 @@
 [comment]: <> (Todo: Make Light Mode Image)
 [comment]: <> (Todo: Make Dark Mode Image)
 
-# Starship
+# Starship ![](https://github.com/Vtekickedinyo/Starship/blob/main/starship_throb.gif)
 
 Lead Developers: 
 * [SonicDcer](https://www.github.com/sonicdcer)
